@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{24E3093F-4A15-7A20-C39A-F3A0294C0F1F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Somnium_Dev_TT",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
